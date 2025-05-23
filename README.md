@@ -1,4 +1,4 @@
-# Kotlin BigInteger (Java-Compatible)
+# Kotlin BigInteger, BigDecimal (Java-Compatible)
 
 A minimal drop-in replacement for `java.math.BigInteger` and `java.math.BigDecimal` implemented in pure Kotlin. Not designed for full compatibility with Java's API, but all existing method should be compatible, making it easy to integrate into Kotlin.
 
